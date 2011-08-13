@@ -1,0 +1,4 @@
+-There are four main schema classes responsible for generating recipe information.
+-Thing.php ,creativework.php ,Recipe.php and DBLayer
+-DBLayer handles all  document related functions.(Create,update,delete,Retrieval)
+-Create and Retrieval operations are being handled by this release.
